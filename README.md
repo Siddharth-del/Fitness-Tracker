@@ -1,4 +1,4 @@
-#Fitness Tracker Backend Application
+**Fitness Tracker Backend Application**
 
 This repository contains the backend implementation of a Fitness Tracker application developed using Java and Spring Boot. The project is designed with a strong emphasis on security, scalability, clean architecture, and production readiness. It exposes RESTful APIs for user authentication, activity tracking, and fitness recommendations.
 
@@ -60,3 +60,4 @@ Author
 
 Siddharth 
 Computer Science Student with a strong focus on backend development using Java and Spring Boot. Actively building secure, scalable REST APIs and learning industry-grade software engineering practices.﻿
+
